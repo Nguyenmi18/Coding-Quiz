@@ -1,0 +1,1 @@
+//create vairables for elements we will target with js.
